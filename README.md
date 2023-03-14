@@ -8,4 +8,4 @@ This is a small Python project on customer segmentation using the below Machine 
 
 by Tisha Jhabak and My Nguyen.
 
-Results are to be compared to determine which one performs the best for a specific public data set.
+Results are to be compared to determine which model performs best for a specific public data set.
